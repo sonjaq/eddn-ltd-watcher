@@ -12,7 +12,7 @@
     "@feathersjs/express": "^4.5.3",
     "@feathersjs/feathers": "^4.5.3",
     "@feathersjs/socketio": "^4.5.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "moment": "^2.24.0",
     "zeromq": "^4.2.0",
     "zlib": "^1.0.5"
